@@ -1,0 +1,6 @@
+安装 monaco 字体:
+# mkdir /usr/share/fonts/zhcn
+# cp monaco-linux.ttf /usr/share/fonts/zhcn/
+# mkfontscale
+# mkfontdir
+# fc-cache -f
