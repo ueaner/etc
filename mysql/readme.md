@@ -1,0 +1,5 @@
+my-small.cnf  (内存 <= 64M)
+my-medium.cnf (内存 128M)
+my-large.cnf  (内存 512M)
+my-huge.cnf   (内存 1-2G)
+my-innodb-heavy-4G.cnf  (内存 4G)
